@@ -1,3 +1,6 @@
 print("hello gi!")
 print("hello proyeto !")
 print ("segundo omint")
+print ("segundo omint")
+print ("segundo omint")
+print ("segundo omint")print ("segundo omint")print ("segundo omint")
