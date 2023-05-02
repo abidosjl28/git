@@ -1,2 +1,3 @@
 print("hello gi!")
-print("hello git!")
+print("hello proyeto !")
+print ("segundo omint")
